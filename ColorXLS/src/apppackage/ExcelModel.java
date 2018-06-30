@@ -1,7 +1,7 @@
 package apppackage;
 
 public class ExcelModel {
-    private String path = "C:\\Users\\to067914\\Documents\\ColorXLS\\ELCON-test.xlsx";
+    private String path = "C:\\Users\\%USERNAME%\\Documents\\ColorXLS\\file.xlsx";
     private String nameOfList = "List1";
     private String rowString = "";
 
