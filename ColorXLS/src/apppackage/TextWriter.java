@@ -9,7 +9,7 @@ import java.util.List;
 
 public class TextWriter {
     private List<String> listToWrite;
-    private String outputFilePath = "C:\\Users\\to067914\\Documents\\ColorXLS\\output.txt";
+    private String outputFilePath = "C:\\Users\\%USERNAME%\\Documents\\ColorXLS\\output.txt";
     private Log log;
     private String elementName;
 
