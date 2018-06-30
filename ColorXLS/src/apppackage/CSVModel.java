@@ -6,7 +6,7 @@ import java.util.List;
 public class CSVModel {
     private List<String> listOfAllCSVFile;
     private List<Integer> rowNumber = new ArrayList<Integer>();
-    private String outputFilePath = "C:\\Users\\to067914\\Documents\\ColorXLS\\ELCON-testCSV.csv";
+    private String outputFilePath = "C:\\Users\\%USERNAME%\\Documents\\ColorXLS\\file.csv";
     int counter = 1;
 
     public CSVModel(){}
